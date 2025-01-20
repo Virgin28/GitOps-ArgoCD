@@ -10,7 +10,7 @@ spec:
   - repoURL: https://github.com/Virgin28/GitOps-ArgoCD.git
     targetRevision: HEAD
     ref: values
-  - repoURL: https://github.com/Virgin28/GitOps.git
+  - repoURL: https://github.com/Virgin28/Start-Doing.git
     targetRevision: HEAD
     path: start-doing-chart  # Path to your Helm chart in the GitOps repo
     helm:
